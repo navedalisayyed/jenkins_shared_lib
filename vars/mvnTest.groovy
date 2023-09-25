@@ -1,3 +1,3 @@
 def call(){
-    sh 'mv test'
+    sh 'mvn test'
 }
